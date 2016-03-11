@@ -1,0 +1,2 @@
+# VeticalAlignmentLabel
+内容字体居上居中居下的UILabel
